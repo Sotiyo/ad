@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+h3 {
+    color: chartreuse;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: cyan;
+    border-width: 5px;
+    width: 5%;
+}
